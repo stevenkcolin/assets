@@ -2,7 +2,7 @@
   "tokens": {
     "0xAaF42b872F99fB9fBf0C0863f8fAEDf2d41c9802": {
       "address": "0xAaF42b872F99fB9fBf0C0863f8fAEDf2d41c9802",
-      "id": "0x",
+      "id": "dai",
       "name": "MOC1",
       "symbol": "MOC1",
       "decimals": 18,
